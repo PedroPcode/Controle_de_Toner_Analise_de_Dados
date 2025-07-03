@@ -337,5 +337,4 @@ DeltaWorks | 1
   - Gamma Solutions é o oposto: tem mais impressoras monocromáticas do que coloridas.
   - Clientes com equilíbrio entre os dois tipos, como AlphaTech e Zeta Industries, indicam ambientes com necessidades mistas de impressão.
 
-
 ![image](https://github.com/user-attachments/assets/f0373cc1-9417-4001-9851-c409afb3b733)
