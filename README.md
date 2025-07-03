@@ -338,7 +338,8 @@ DeltaWorks | 1
   - Clientes com equilíbrio entre os dois tipos, como AlphaTech e Zeta Industries, indicam ambientes com necessidades mistas de impressão.
 
 
-![image](https://github.com/user-attachments/assets/84ba3b3b-a1de-4999-85a6-112b0ad73872)
+![image](https://github.com/user-attachments/assets/4f137be6-649c-4d20-82d4-03cca2ffa0aa)
+
 
 
 
