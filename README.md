@@ -20,7 +20,7 @@ O dataset principal é uma tabela chamada monitoramento que contém informaçõe
 
 ## Perguntas a serem Respondidas
 
-#### ⚪ **Query 1: Quantas impressoras estão sendo monitoradas por cliente?
+#### ⚪ Query 1: Quantas impressoras estão sendo monitoradas por cliente?
 *Solução:*
   - Seleciona o nome do cliente (cliente).
   - Conta o total de impressoras (COUNT(*)) que possuem o status Monitorando.
